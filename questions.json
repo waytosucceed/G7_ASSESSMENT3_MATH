@@ -1,0 +1,509 @@
+{
+  "heading": "Selected Topic",
+  "topics": [
+    {
+        "heading": "Exponents",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Evaluate:<br>(4xy<sup>2</sup>)<sup>3</sup> ÷ 8(xy)<sup>2</sup>",
+                "options": [
+                    { "text": "16x<sup>3</sup>y<sup>6</sup>","image":"" },
+                    { "text": "8xy<sup>4</sup>","image":"" },
+                    { "text": "8x<sup>5</sup>y<sup>8</sup>","image":"" },
+                    { "text": "16xy<sup>4</sup>","image":"" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "Evaluate:<br>7<sup>0</sup> × 9<sup>0</sup>",
+                "options": [
+                    { "text": "0" },
+                    { "text": "1" },
+                    { "text": "7" },
+                    { "text": "4" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "Simplify and express the following in exponential form:<br>2<sup>4</sup> × 2<sup>5</sup>",
+                "options": [
+                    { "text": "2<sup>12</sup>" },
+                    { "text": "2<sup>20</sup>" },
+                    { "text": "2<sup>9</sup>" },
+                    { "text": "4<sup>9</sup>" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 4,
+                "question": "Simplify the following and write in exponential form:<br>2<sup>3</sup> × 4<sup>3</sup>",
+                "options": [
+                    { "text": "8<sup>3</sup>" },
+                    { "text": "8<sup>6</sup>" },
+                    { "text": "2<sup>6</sup>" },
+                    { "text": "8<sup>9</sup>" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 5,
+                "question": "Find the value of x:<br>7<sup>x</sup> = 343",
+                "options": [
+                    { "text": "2" },
+                    { "text": "5" },
+                    { "text": "7" },
+                    { "text": "3" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },
+            {
+                "questionNo": 6,
+                "question": "Write the following equation in the expanded form:<br>2<sup>5</sup>",
+                "options": [
+                  { "text": "2 × 2 × 2 × 2 × 2" },
+                  { "text": "5 × 5 × 5 × 5 × 5"  },
+                  { "text": "5 × 5"  },
+                  { "text": "2 × 2 " }
+                ],
+                "answer": 0,
+                "explanation": ""
+              },
+            {
+                "questionNo": 7,
+                "question": "Simplify:<br>7<sup>-5</sup> × 8<sup>-5</sup>",
+                "options": [
+                    { "text": "56<sup>-5</sup>" },
+                    { "text": "56<sup>-25</sup>" },
+                    { "text": "56<sup>5</sup>" },
+                    { "text": "56<sup>25</sup>" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 8,
+                "question": "Find the value of:<br>(-1)<sup>30</sup> ÷ (-1)<sup>200</sup>",
+                "options": [
+                    { "text": "0" },
+                    { "text": "1" },
+                    { "text": "-1" },
+                    { "text": "100" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 9,
+                "question": "Express 432 in its prime factor form.",
+                "options": [
+                    { "text": "2<sup>4</sup> + 3<sup>3</sup>" },
+                    { "text": "2<sup>3</sup> × 3<sup>4</sup>" },
+                    { "text": "2<sup>4</sup> × 3<sup>3</sup>" },
+                    { "text": "2<sup>3</sup> + 3<sup>4</sup>" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 10,
+                "question": "Rewrite following expression as a single positive exponent:<br>(17<sup>-7</sup>)<sup>-5</sup>",
+                "options": [
+                    { "text": "17<sup>-35</sup>" },
+                    { "text": "17<sup>35</sup>" },
+                    { "text": "17<sup>75</sup>" },
+                    { "text": "17<sup>-75</sup>" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Square and Cube Roots",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Find the squares of the given number: 45",
+                "options": [
+                    { "text": "2035" },
+                    { "text": "2025" },
+                    { "text": "2015" },
+                    { "text": "2045" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "Find the squares of the given number: 12",
+                "options": [
+                  { "text": "144" },
+                  { "text": "124" },
+                  { "text": "114" },
+                  { "text": "244" }
+                ],
+                "answer": 0,
+                "explanation": ""
+              },
+              {
+                "questionNo": 3,
+                "question": "If 23<sup>2</sup> = 529,<br><img width='50%' src='./assests/images/question/21.png'>",
+                "options": [
+                  { "text": "19" },
+                  { "text": "29"  },
+                  { "text": "23"  },
+                  { "text": "13" }
+                ],
+                "answer": 2,
+                "explanation": ""
+              },
+            {
+                "questionNo": 4,
+                "question": "Find the square root of:<br><img width='50%' src='./assests/images/question/12.png'>",
+                "options": [
+                    { "text": "56" },
+                    { "text": "36" },
+                    { "text": "46" },
+                    { "text": "66" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 5,
+                "question": "Find the cube of the given number: 9",
+                "options": [
+                    { "text": "629" },
+                    { "text": "639" },
+                    { "text": "729" },
+                    { "text": "739" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 6,
+                "question": "Find the cube root of:<br><img width='50%' src='./assests/images/question/13.png'>",
+                "options": [
+                    { "text": "27" },
+                    { "text": "23" },
+                    { "text": "13" },
+                    { "text": "17" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },{
+                "questionNo": 7,
+                "question": "Find the value of:(-7)<sup>3</sup>",
+                "options": [
+                  { "text": "343" },
+                  { "text": "-343"  },
+                  { "text": "21"  },
+                  { "text": "-21" }
+                ],
+                "answer": 1,
+                "explanation": ""
+              },{
+                "questionNo": 8,
+                "question": "Find the value of:(-24)<sup>2</sup>",
+                "options": [
+                  { "text": "576" },
+                  { "text": "-576"  },
+                  { "text": "476"  },
+                  { "text": "-476" }
+                ],
+                "answer": 0,
+                "explanation": ""
+              }
+        ]
+    },
+    {
+        "heading": "Linear Equations",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Write these expressions without grouping symbols.<br>-2n(8 - 5m)",
+                "options": [
+                    { "text": "−16n - 10mn" },
+                    { "text": "−16n + 10mn" },
+                    { "text": "16n - 10mn" },
+                    { "text": "−10n + 16mn" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "Solve the following equation:<br>3z + 12 = 15",
+                "options": [
+                    { "text": "z = 1" },
+                    { "text": "z = 0" },
+                    { "text": "z = 2" },
+                    { "text": "z = 3" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "If a = 8.25, b = 2.75 and c = 1.2, then find<br>(a - b) × c",
+                "options": [
+                    { "text": "5.4" },
+                    { "text": "6.6" },
+                    { "text": "5.6" },
+                    { "text": "4.5" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 4,
+                "question": "A number divided by 4 and increased by 6 gives 10. Find the number.",
+                "options": [
+                    { "text": "14" },
+                    { "text": "15" },
+                    { "text": "16" },
+                    { "text": "17" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 5,
+                "question": "92 exceeds another number by 32. What is another number?",
+                "options": [
+                    { "text": "52" },
+                    { "text": "60" },
+                    { "text": "62" },
+                    { "text": "70" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 6,
+                "question": "If a = 5, b = 3, c = 10, then find<br>ab<sup>2</sup> - c",
+                "options": [
+                    { "text": "55" },
+                    { "text": "45" },
+                    { "text": "35" },
+                    { "text": "65" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 7,
+                "question": "If x = 3 and y = 5, then find <br>x<sup>2</sup> + 5y",
+                "options": [
+                    { "text": "25" },
+                    { "text": "24" },
+                    { "text": "35" },
+                    { "text": "34" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "Algebra",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Simplify:<br>(-25y<sup>2</sup>) ÷ (-5y)",
+                "options": [
+                    { "text": "-5y" },
+                    { "text": "3y" },
+                    { "text": "15y" },
+                    { "text": "5y" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "Simplify:<br>-5x × 3xy",
+                "options": [
+                    { "text": "15x<sup>2</sup>y" },
+                    { "text": "-15x<sup>2</sup>y" },
+                    { "text": "-15xy<sup>2</sup>" },
+                    { "text": "15xy<sup>2</sup>" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "Expand and simplify<br>8(t - 3) - 3t",
+                "options": [
+                    { "text": "5t + 24" },
+                    { "text": "-5t - 24" },
+                    { "text": "-5t + 24" },
+                    { "text": "5t - 24" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },
+            {
+                "questionNo": 4,
+                "question": "Expand and simplify<br>7(n - 4) - 2(n + 2)",
+                "options": [
+                    { "text": "-5n - 32" },
+                    { "text": "-5n + 32" },
+                    { "text": "5n - 32" },
+                    { "text": "5n + 32" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 5,
+                "question": "Simplify:<br><img width='60%' src='./assests/images/question/2.png'>",
+                "options": [
+                    { "text": "","image":"./assests/images/option/1.jpg" },
+                    { "text": "","image":"./assests/images/option/2.jpg" },
+                    { "text": "","image":"./assests/images/option/3.jpg" },
+                    { "text": "","image":"./assests/images/option/4.jpg" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 6,
+                "question": "Simplify:<br><img width='60%' src='./assests/images/question/3.png'>",
+                "options": [
+                  { "text": "","image":"./assests/images/option/5.jpg" },
+                  { "text": "","image":"./assests/images/option/6.jpg" },
+                  { "text": "","image":"./assests/images/option/7.jpg" },
+                  { "text": "","image":"./assests/images/option/8.jpg" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 7,
+                "question": "Simplify:<br><img width='60%' src='./assests/images/question/4.png'>",
+                "options": [
+                  { "text": "12" },
+                    { "text": "12ab" },
+                    { "text": "12a" },
+                    { "text": "12b" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            }
+        ]
+    },
+    {
+        "heading": "HCF",
+        "questions": [
+            {
+                "questionNo": 1,
+                "question": "Write the prime factorisation of the number 48.",
+                "options": [
+                    { "text": "2 × 2 × 2 × 2 × 3" },
+                    { "text": "2 × 2 × 2 × 3" },
+                    { "text": "2 × 2 × 2 × 3 × 3" },
+                    { "text": "2 × 2 × 2 × 2 × 2 × 3" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 2,
+                "question": "Factorise:<br>8q + 16",
+                "options": [
+                    { "text": "4(q + 4)" },
+                    { "text": "4(2q - 4)" },
+                    { "text": "8(q + 2)" },
+                    { "text": "8(q - 2)" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 3,
+                "question": "Factorise:<br>-6x<sup>2</sup> - 12x",
+                "options": [
+                    { "text": "-6x(x - 2)" },
+                    { "text": "-6x(x + 2)" },
+                    { "text": "6x(x + 2)" },
+                    { "text": "6x(x + 2)" }
+                ],
+                "answer": 1,
+                "explanation": ""
+            },
+            {
+                "questionNo": 4,
+                "question": "Factorise:<br>8x + 8y - 16z",
+                "options": [
+                    { "text": "8(x + y - 2z)" },
+                    { "text": "8(x - y - 2z)" },
+                    { "text": "8(x + y + 2z)" },
+                    { "text": "-8(x + y + 2z)" }
+                ],
+                "answer": 0,
+                "explanation": ""
+            },
+            {
+                "questionNo": 5,
+                "question": "Factorise:<br>15x<sup>2</sup>y<sup>2</sup> - 5xy",
+                "options": [
+                    { "text": "-5xy(3xy + 1)" },
+                    { "text": "5x(3xy<sup>2</sup> - 1)" },
+                    { "text": "5xy(3xy - 1)" },
+                    { "text": "5xy(3xy 6 1)" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 6,
+                "question": "Factorise:<br>-10x + 5",
+                "options": [
+                    { "text": "-5(-2x + 1)" },
+                    { "text": "-5(2x - 3)" },
+                    { "text": "5(x - 2)" },
+                    { "text": "5(-2x + 1)" }
+                ],
+                "answer": 3,
+                "explanation": ""
+            },
+            {
+                "questionNo": 7,
+                "question": "Find the HCF of the given numbers:<br>36 and 42",
+                "options": [
+                    { "text": "2" },
+                    { "text": "4" },
+                    { "text": "6" },
+                    { "text": "8" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            },
+            {
+                "questionNo": 8,
+                "question": "Find the HCF of the given numbers:<br>24xy and 16y",
+                "options": [
+                    { "text": "4y" },
+                    { "text": "6y" },
+                    { "text": "8y" },
+                    { "text": "2y" }
+                ],
+                "answer": 2,
+                "explanation": ""
+            }
+        ]
+    }
+]
+
+}
